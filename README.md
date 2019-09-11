@@ -1,5 +1,5 @@
 
-Python3  Monte Carlo MArkov Chain
+Python3  Monte Carlo Markov Chain
 ---------------------------------
 
 Book: Peter Hoff, A First Course in Bayesian Statistics
